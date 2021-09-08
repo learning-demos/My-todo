@@ -1,0 +1,21 @@
+style {
+    excludePackages = [
+    ]
+    excludeClasses = [
+            "com.github.dreamhead.todo.cli.Bootstrap"
+    ]
+}
+
+coverage {
+    excludePackages = [
+    ]
+    excludeClasses = [
+            "com.github.dreamhead.todo.cli.Bootstrap",
+            "com.github.dreamhead.todo.util.Jsons"
+    ]
+}
+
+project.dependencies {
+    implementation("info.picocli:picocli:$picocliVersion")
+    implementation(project(':todo-core'))
+}

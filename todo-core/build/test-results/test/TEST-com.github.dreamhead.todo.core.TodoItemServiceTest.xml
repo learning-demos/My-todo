@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.dreamhead.todo.core.TodoItemServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-07T14:24:19" hostname="MacBook-Pro.lan" time="1.293">
+  <properties/>
+  <testcase name="should_add_todo_item()" classname="com.github.dreamhead.todo.core.TodoItemServiceTest" time="1.187"/>
+  <testcase name="should_throw_exception_for_null_todo_item()" classname="com.github.dreamhead.todo.core.TodoItemServiceTest" time="0.012"/>
+  <testcase name="should_mark_todo_item_as_done()" classname="com.github.dreamhead.todo.core.TodoItemServiceTest" time="0.088"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

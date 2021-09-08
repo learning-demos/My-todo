@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.44">
+<file name="/Users/dieselniu/tdd_practice/MY-todo/todo-core/src/main/java/com/github/dreamhead/todo/core/TodoItem.java">
+</file>
+<file name="/Users/dieselniu/tdd_practice/MY-todo/todo-core/src/main/java/com/github/dreamhead/todo/core/TodoItemRepository.java">
+</file>
+<file name="/Users/dieselniu/tdd_practice/MY-todo/todo-core/src/main/java/com/github/dreamhead/todo/core/TodoItemService.java">
+</file>
+<file name="/Users/dieselniu/tdd_practice/MY-todo/todo-core/src/main/java/com/github/dreamhead/todo/core/TodoParameter.java">
+</file>
+</checkstyle>
